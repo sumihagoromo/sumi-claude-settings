@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(make copy-claude-md:*)",
+      "Bash(cp:*)",
+      "Bash(rm:*)",
+      "Bash(brew install:*)",
+      "Bash(gmake copy-claude-md:*)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git remote add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": []
+  }
+}
